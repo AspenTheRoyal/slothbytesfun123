@@ -1,4 +1,3 @@
-import itertools
 def spiralOrder(listOriginal):
     output = []
     listTemporary = listOriginal
